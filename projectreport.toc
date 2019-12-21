@@ -1,0 +1,16 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}
+\contentsline {section}{\numberline {2}The CMS detector}{3}{section.2}
+\contentsline {section}{\numberline {3}Z boson decay modes}{5}{section.3}
+\contentsline {section}{\numberline {4}Underlying events}{5}{section.4}
+\contentsline {subsection}{\numberline {4.1}QCD Jets in underlying events }{5}{subsection.4.1}
+\contentsline {section}{\numberline {5}Signal and background characteristics}{7}{section.5}
+\contentsline {subsection}{\numberline {5.1}Signal}{7}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Background}{8}{subsection.5.2}
+\contentsline {section}{\numberline {6}Event selection cuts}{10}{section.6}
+\contentsline {subsection}{\numberline {6.1}Transverse momenta}{10}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Isolation}{11}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}Pseudorapidity}{12}{subsection.6.3}
+\contentsline {section}{\numberline {7}Results}{12}{section.7}
+\contentsline {section}{\numberline {8}Conclusion}{12}{section.8}
+\contentsline {section}{\numberline {9}Ackowledgement}{13}{section.9}
+\contentsline {section}{\numberline {10}Referrences}{13}{section.10}
